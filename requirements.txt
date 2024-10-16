@@ -1,0 +1,9 @@
+langchain_openai
+langchain_core
+pypdf
+python-dotenv
+langchain_community
+bs4
+langserve
+uvicorn
+sse_starlette
